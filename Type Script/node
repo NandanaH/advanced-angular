@@ -1,0 +1,2 @@
+error TS6053: File 'h.ts' not found.
+error TS6054: File 'highorderfunctions.js' has unsupported extension. The only supported extensions are '.ts', '.tsx', '.d.ts'.
